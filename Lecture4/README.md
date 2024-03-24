@@ -1,4 +1,4 @@
-#Interfaces#
+#Interfaces
 
 `An Interface is a fully abstract class. It includes a group of abstract methods (without a body).`
 
